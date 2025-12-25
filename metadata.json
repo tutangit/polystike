@@ -1,0 +1,5 @@
+{
+  "name": "PolyStrike 1.6",
+  "description": "A low-poly 3D first-person shooter inspired by CS 1.6, featuring fluid movement, maze exploration, and weapon switching between a pistol and an AK47.",
+  "requestFramePermissions": []
+}
